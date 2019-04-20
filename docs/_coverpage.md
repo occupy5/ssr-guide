@@ -1,4 +1,4 @@
-![logo](_images/logo.png)
+![logo](http://shuaiwei.wisecover.org/ssr_logo.png)
 # 科学上网终极指南<small>2.1</small>
 > 简单快速学会科学上网
 
