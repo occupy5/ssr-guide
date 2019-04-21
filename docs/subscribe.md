@@ -14,4 +14,4 @@
 ---
 
 ## mac
-同理（稍后再放截图）。
+1. mac os上操作基本上也是一样的。截图暂且不放了，遇到问题的话，看看[这里](https://docs.cloudhammer.xyz/#/integrations/ssr-macos)吧。
